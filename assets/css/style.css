@@ -8257,27 +8257,3 @@ del {
 }
 
 /*# sourceMappingURL=style.css.map */
-
-
-.logo .company-name {
-  font-weight: bold;
-  margin-bottom: 0;
-  font-size: 18px;
-  line-height: 1.2;
-}
-
-.logo .company-tagline {
-  font-size: 12px;
-  margin-top: 2px;
-  color: #777;
-}
-
-@media (max-width: 991px) {
-  .logo .company-name {
-      font-size: 21px;
-  }
-  
-  .logo .company-tagline {
-      font-size: 10px;
-  }
-}
